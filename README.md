@@ -10,7 +10,7 @@ Living to learn new knowledge every day... and I have doing hard for this.
 
 ## Programming Languages & Frameworks
 
-![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)![Dart](https://img.icons8.com/color/35/dart.png)![Flutter](https://img.icons8.com/color/35/flutter.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)![c++](https://img.icons8.com/color/344/c-plus-plus-logo.png)
+![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)![Dart](https://img.icons8.com/color/35/dart.png)![Flutter](https://img.icons8.com/color/35/flutter.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)![c++](https://img.icons8.com/color/35/c-plus-plus-logo.png)
 
 ## Technologies
 
